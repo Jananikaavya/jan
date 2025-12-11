@@ -2,8 +2,10 @@
 <!-- 🔥 WELCOME BANNER + TYPING INTRO -->
 <!-- ============================= -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Montserrat&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Hi+There+👋;+I+am+Janani+Kaavya!;Full+Stack+Developer+%7C+Designer+%7C+Coder;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Hi%20There%20%F0%9F%91%8B;I%20am%20Janani!;Full%20Stack%20Developer%20%7C%20Designer%20%7C%20Coder" alt="typing" />
 </h1>
+
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="300" />
@@ -16,7 +18,7 @@
 <!-- ============================= -->
 
 ## 👩‍💻 About Me  
-Hi! I'm **Janani Kaavya**, also known as **its_me_janu_here_**, a passionate  
+Hi! I'm Janani ,  a passionate  
 **Full Stack Developer, UI/UX Enthusiast, and Creative Problem Solver**.
 
 I love building user-friendly web apps, interactive dashboards, and modern UI experiences.
@@ -99,11 +101,6 @@ I love building user-friendly web apps, interactive dashboards, and modern UI ex
 <!-- 📊 SUMMARY GRAPH -->
 <!-- ============================= -->
 
-## 📊 GitHub Summary
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jananikaavya&show_icons=true&theme=radical&count_private=true&token=${{ secrets.GH_STATS_TOKEN }}" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jananikaavya&layout=compact&theme=radical&token=${{ secrets.GH_STATS_TOKEN }}" height="170"/>
-</p>
 
 
 ---
