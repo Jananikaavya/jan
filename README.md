@@ -99,11 +99,12 @@ I love building user-friendly web apps, interactive dashboards, and modern UI ex
 <!-- 📊 SUMMARY GRAPH -->
 <!-- ============================= -->
 
-## 📊 GitHub Summary  
+## 📊 GitHub Summary
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jananikaavya&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jananikaavya&layout=compact&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jananikaavya&show_icons=true&theme=radical&count_private=true&token=${{ secrets.GH_STATS_TOKEN }}" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jananikaavya&layout=compact&theme=radical&token=${{ secrets.GH_STATS_TOKEN }}" height="170"/>
 </p>
+
 
 ---
 
