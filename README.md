@@ -111,14 +111,14 @@ I love building user-friendly web apps, interactive dashboards, and modern UI ex
 
 ## ⏳ WakaTime Coding Stats  
 <!-- Must enable WakaTime API -->
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=janu&theme=tokyonight)
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=@janu&theme=tokyonight)
 
 
 <!-- ============================= -->
 <!-- ⚡ DAILY AUTOMATIC CODE GENERATOR -->
 <!-- ============================= -->
 
-## ⚡ Daily Code / Quote (Auto-updated)
+## ⚡ Daily Code
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
