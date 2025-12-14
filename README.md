@@ -116,9 +116,8 @@ I love building user-friendly web apps, interactive dashboards, and modern UI ex
 ## 📊 WakaTime Coding Graph
 
 <p align="center">
- <figure><embed src="https://wakatime.com/share/@janu/1cc573bf-0814-4e81-b09a-565b5599f2b6.svg"></embed></figure>
+  <img src="https://wakatime.com/share/@janu/1cc573bf-0814-4e81-b09a-565b5599f2b6.svg" alt="WakaTime Graph" />
 </p>
-
 
 <!-- ============================= -->
 <!-- ⚡ DAILY AUTOMATIC CODE GENERATOR -->
